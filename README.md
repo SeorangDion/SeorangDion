@@ -1,9 +1,9 @@
-### Hey, I'm Dion, a Noob Developer from Indonesia
+### Hey, I'm Dion, i'm from Indonesia
 
  **Information:**
 
-- 🔭 I’m currently working on  **Make many Telegram bots.**
-- 🌱 I’m currently learning  **Python***
+- 🔭 My hobby are **cycling, watching anime and play onlie games.**
+- 🌱 I’m currently learning  **Python**
 - 👨‍💻 Gender :  **Boy** 
 
 ### Connect with me:
@@ -29,6 +29,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeorangDion&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeorangDion&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
+
+### Click [here](https://github.com/SeorangDion/SeorangDion/blob/dion/README-ID.md) to see this text in Indonesian
 
 <!--
 Mwehehe
